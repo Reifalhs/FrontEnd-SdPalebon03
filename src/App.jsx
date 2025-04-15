@@ -7,6 +7,7 @@ import Galery from './pages/Galery';
 import Berita from './pages/Berita';
 import Guru from './pages/guru';
 import Lomba from './pages/Lomba';
+import Warta from './pages/Warta';
 
 
 const App = () => {
@@ -21,6 +22,7 @@ const App = () => {
           <Route path="/berita" element={<Berita />} />
           <Route path="/guru" element={<Guru />} />
           <Route path="/lomba" element={<Lomba />} />
+          <Route path="/warta" element={<Warta />} />
         </Routes>
 
     </Router>
