@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Kontak from './pages/Kontak';
 import ProfileSekolah from './pages/ProfileSekolah';
 import Galery from './pages/Galery';
+import Berita from './pages/Berita';
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
           <Route path="/profilesekolah" element={<ProfileSekolah />} />
           <Route path="/kontak" element={<Kontak />} />
           <Route path="/galery" element={<Galery />} />
+          <Route path="/berita" element={<Berita />} />
         </Routes>
 
     </Router>

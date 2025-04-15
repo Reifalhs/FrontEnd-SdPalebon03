@@ -50,7 +50,6 @@ const ProfileSekolah = () => {
   <div class="p-3 mt-5 border-t border-slate-100 text-center max-h-60 overflow-y-auto [&::-webkit-scrollbar-thumb]:rounded-xl [&::-webkit-scrollbar-thumb]:bg-slate-300 [&::-webkit-scrollbar]:w-1.5 [&::-webkit-scrollbar-track]:rounded-xl [&::-webkit-scrollbar-track]:bg-slate-100">
     <p class="block text-slate-600 leading-normal font-light mb-4 max-w-lg">
     1. Menyelenggarakan pembelajaran dengan menanamkan nilai-nilai keagamaan dan akhlaq mulia dalam rangka meningkatkan ketaqwaan kepada Tuhan Yang Maha Esa sebagai cerminan profil Pelajar Pancasila.
-
 2. Meningkatkan kemampuan peserta didik dalam literasi dan numerasi serta berpartisipasi dalam segala bidang melalui kegiatan intrakurikuler maupun kokurikuler sebagai cerminan profil Pelajar Pancasila.
 
 3. Budi pekerti yang luhur dengan menumbuh kembangkan nilai religious, nasionalis, integritas, mandiri, dan gotong royong dengan kegiatan pembahasan sekolah dan berkesinambungan sebagai cerminan profil Pelajar Pancasila.
